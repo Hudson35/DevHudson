@@ -649,6 +649,353 @@ h2 {
 
 
 /*Start Media Query's*/
+
+/*Screen Size: - 1920px*/
+@media screen and (max-width: 1920px) {
+	body {
+		
+		background: url("images/sitebg2.jpg") no-repeat center fixed;
+		background-size: cover;
+	}
+
+	.menu-toggler {
+		top: 3rem;
+		right: 2.5rem;
+	}
+
+	.landing-text h1 {
+		font-size: 12rem;
+	}
+
+	.landing-text h6 {
+		font-size: 2rem;
+	}
+
+	.nav-list {
+		flex-direction: row;
+	}
+
+	li {
+		margin: 2rem;
+	}
+
+	.nav-link {
+		font-size: 4.5rem;
+	}
+
+	.about-heading h1 {
+		font-size: 8rem;
+	}
+
+	.section-heading h1 {
+		font-size: 6rem;
+	}
+
+	.about-details .nav-list {
+		flex-direction: initial;
+	}
+
+	.about-details li {
+		margin: 0 2rem;
+	}
+
+	.icon-container {
+		width: 7rem;
+		height: 7rem;
+	}
+
+	.icon-container i {
+		font-size: 4rem;
+	}
+
+	.timeline ul {
+		/*border: 1px solid red;*/
+		/*margin: 0 2rem 0 auto;*/
+		margin: auto;
+	}
+
+	.timeline .date::before {
+		left: -22rem;
+		/*border: 1px solid red;*/
+	}
+
+	.timeline .date::after {
+		left: -8rem;
+	}
+
+	.contact h2 {
+		justify-content: center;
+		padding-left: 32rem;
+		/*border: 1px solid red;*/
+	}
+
+	.down {
+		margin-top: 1rem;
+		/*padding-top: 50rem;*/
+		/*top: 100rem;*/
+		/*right: 2.5rem;*/
+		/*border: 1px solid red;*/
+		/*display: none;*/
+	}
+}
+
+
+/*Screen Size: - 1880px*/
+@media screen and (max-width: 1880px) {
+	body {
+		
+		background: url("images/sitebg2.jpg") no-repeat center fixed;
+		background-size: cover;
+	}
+
+	.menu-toggler {
+		top: 3rem;
+		right: 2.5rem;
+	}
+
+	.landing-text h1 {
+		font-size: 12rem;
+	}
+
+	.landing-text h6 {
+		font-size: 2rem;
+	}
+
+	.nav-list {
+		flex-direction: row;
+	}
+
+	li {
+		margin: 2rem;
+	}
+
+	.nav-link {
+		font-size: 4.5rem;
+	}
+
+	.about-heading h1 {
+		font-size: 8rem;
+	}
+
+	.section-heading h1 {
+		font-size: 6rem;
+	}
+
+	.about-details .nav-list {
+		flex-direction: initial;
+	}
+
+	.about-details li {
+		margin: 0 2rem;
+	}
+
+	.icon-container {
+		width: 7rem;
+		height: 7rem;
+	}
+
+	.icon-container i {
+		font-size: 4rem;
+	}
+
+	.timeline ul {
+		/*border: 1px solid red;*/
+		/*margin: 0 2rem 0 auto;*/
+		margin: auto;
+	}
+
+	.timeline .date::before {
+		left: -22rem;
+		/*border: 1px solid red;*/
+	}
+
+	.timeline .date::after {
+		left: -8rem;
+	}
+
+	.contact h2 {
+		justify-content: center;
+		/*border: 1px solid red;*/
+	}
+
+	.down {
+		top: 77rem;
+		right: 2.5rem;
+	}
+}
+
+
+/*Screen Size: Laptop L - 1440px*/
+@media screen and (max-width: 1440px) {
+	body {
+		
+		background: url("images/sitebg2.jpg") no-repeat center fixed;
+		background-size: cover;
+	}
+
+	.menu-toggler {
+		top: 3rem;
+		right: 2.5rem;
+	}
+
+	.landing-text h1 {
+		font-size: 12rem;
+	}
+
+	.landing-text h6 {
+		font-size: 2rem;
+	}
+
+	.nav-list {
+		flex-direction: row;
+	}
+
+	li {
+		margin: 2rem;
+	}
+
+	.nav-link {
+		font-size: 4.5rem;
+	}
+
+	.about-heading h1 {
+		font-size: 8rem;
+	}
+
+	.section-heading h1 {
+		font-size: 6rem;
+	}
+
+	.about-details .nav-list {
+		flex-direction: initial;
+	}
+
+	.about-details li {
+		margin: 0 2rem;
+	}
+
+	.icon-container {
+		width: 7rem;
+		height: 7rem;
+	}
+
+	.icon-container i {
+		font-size: 4rem;
+	}
+
+	.timeline ul {
+		/*border: 1px solid red;*/
+		/*margin: 0 2rem 0 auto;*/
+		margin: auto;
+	}
+
+	.timeline .date::before {
+		left: -22rem;
+		/*border: 1px solid red;*/
+	}
+
+	.timeline .date::after {
+		left: -8rem;
+	}
+
+	.contact h2 {
+		justify-content: center;
+		/*border: 1px solid red;*/
+	}
+
+	.down {
+		top: 78rem;
+		right: 2.5rem;
+	}
+}
+
+/*Screen Size: Laptop - 1024px*/
+@media screen and (max-width: 1024px) {
+	body {
+		
+		background: url("images/sitebg2.jpg") no-repeat center fixed;
+		background-size: cover;
+	}
+
+	.menu-toggler {
+		top: 3rem;
+		right: 2.5rem;
+	}
+
+	.landing-text h1 {
+		font-size: 12rem;
+	}
+
+	.landing-text h6 {
+		font-size: 2rem;
+	}
+
+	.nav-list {
+		flex-direction: row;
+	}
+
+	li {
+		margin: 2rem;
+	}
+
+	.nav-link {
+		font-size: 4.5rem;
+	}
+
+	.about-heading h1 {
+		font-size: 8rem;
+	}
+
+	.section-heading h1 {
+		font-size: 6rem;
+	}
+
+	.about-details .nav-list {
+		flex-direction: initial;
+	}
+
+	.about-details li {
+		margin: 0 2rem;
+	}
+
+	.icon-container {
+		width: 7rem;
+		height: 7rem;
+	}
+
+	.icon-container i {
+		font-size: 4rem;
+	}
+
+	.timeline ul {
+		/*border: 1px solid red;*/
+		/*margin: 0 2rem 0 auto;*/
+		margin: auto 0px auto 140px;
+	}
+
+	.timeline .date::before {
+		left: -22rem;
+		/*border: 1px solid red;*/
+	}
+
+	.timeline .date::after {
+		left: -8rem;
+	}
+
+	.contact h2 {
+		padding-left: 18.5rem;
+		/*justify-content: center;*/
+		/*border: 1px solid red;*/
+	}
+
+	.down {
+		top: 78rem;
+		right: 2.5rem;
+	}
+}
+
+
+/*Screen Size: Tablet - 768px*/
 @media screen and (max-width: 768px) {
 	body {
 		
@@ -674,6 +1021,27 @@ h2 {
 
 	.nav-link {
 		font-size: 4.5rem;
+	}
+
+	.about .container {
+		flex-direction: column;
+		font-size: 4px;
+		padding-top: 50px;
+		padding-left: 45px;
+		/*border: 1px solid red;*/
+	}
+
+	.about-heading h1 {
+		justify-content: center;
+		/*margin-left: 15px*/
+
+	}
+
+	.about p {
+		margin-left: 1rem;
+		margin-right: 4rem;
+		/*font-size: 14px;*/
+		/*border: 1px solid red;*/
 	}
 
 	.about-heading h1 {
@@ -712,9 +1080,30 @@ h2 {
 	.timeline .date::after {
 		left: -8rem;
 	}
+
+	.social-media-bottom {
+		flex-direction: row;
+	}
 }
 
+
+/*Screen Size: 600px*/
 @media screen and (max-width: 600px){
+
+	body {
+		
+		background: url("images/sitebg2.jpg") no-repeat center fixed;
+		background-size: cover;
+	}
+
+	.top-nav {
+		justify-content: center;
+		
+	}
+	.nav-link {
+		/*border: 1px solid red;*/
+		margin-right: 5rem;
+	}
 
 	.menu-toggler {
 		top: 2rem;
@@ -735,10 +1124,21 @@ h2 {
 
 	.about .container {
 		flex-direction: column;
+		font-size: 4px;
+		padding-top: 50px;
+		justify-content: center;
+		/*border: 1px solid red;*/
+		/*padding-left: 20px;*/
 	}
 
 	.profile-img {
-		margin: 0 0 7rem 0;
+		justify-content: center;
+	}
+
+	.social-media-top {
+		/*border: 1px solid red;*/
+		margin-right: 4.5rem;
+		justify-content: center;
 	}
 
 	.portfolio-item {
@@ -764,6 +1164,14 @@ h2 {
 		left: -21.5rem;
 	}
 
+	.contact h2 {
+		padding: 0px;
+		/*border: 1px solid red;*/
+		padding-left: 12rem;
+		/*justify-content: center;*/
+		/*border: 1px solid red;*/
+	}
+
 	form {
 		width: 100%;
 	}
@@ -773,10 +1181,142 @@ h2 {
 	}
 
 }
+
+
+/*Screen Size: Mobile L - 425px*/
+@media screen and (max-width: 425px){
+
+	body {
+		
+		background: url("images/sitebg2.jpg") no-repeat center fixed;
+		background-size: cover;
+		/*overflow: hidden;*/
+	}
+
+	.top-nav {
+		justify-content: center;
+		
+	}
+	.nav-link {
+		/*border: 1px solid red;*/
+		margin-right: 12rem;
+	}
+
+	.menu-toggler {
+		top: 2.5rem;
+		right: 2.5rem;
+	}
+
+	.down {
+		top: 78rem;
+		right: 2.5rem;
+	}
+
+	.landing-text h1 {
+		font-size: 6rem;
+	}
+
+	.landing-text h6 {
+		font-size: 1.6rem;
+	}
+
+	.nav-link {
+		font-size: 4rem;
+	}
+
+	.about .container {
+		flex-direction: column;
+		font-size: 4px;
+		padding-top: 50px;
+		justify-content: center;
+		padding-left: 50px;
+		/*border: 1px solid red;*/
+	}
+
+	.about-heading h1 {
+		font-size: 60px;
+		height: 60px;
+		margin: 0 0 0 0;
+		padding-top: 5rem;
+		padding-left: 0;
+		padding-right: 4rem;
+		/*border: 1px solid red;*/
+	}
+
+	.about-heading h6 {
+		/*font-size: 60px;*/
+		/*border: 1px solid red;*/
+		height: 60px;
+		margin: 0 0 0 0;
+		padding-top: 3rem;
+		padding-left: 0;
+		padding-right: 4rem;
+	}
+
+	.about p {
+		/*border: 1px solid red;*/
+		font-size: 16px;
+		margin: 0 5rem 0 0rem;
+		padding: 20px;
+		padding-top: 0px;
+		/*margin-bottom: 10rem;*/
+	}
+
+	.profile-img {
+		justify-content: center;
+	}
+
+	.social-media-top {
+		/*border: 1px solid red;*/
+		margin-right: 4.5rem;
+		justify-content: center;
+	}
+
+	.portfolio-item {
+		flex-direction: column;
+	}
+
+	.portfolio-img {
+		margin: 0 0 2rem 0;
+		order: 1;
+	}
+
+	.portfolio-description {
+		margin: 0;
+		order: 2;
+	}
+
+	.timeline p {
+		font-size: 1.8rem; 
+	}
+
+	.timeline .date::before {
+		display: none;
+	}
+
+	.contact h2 {
+		/*border: 1px solid red;*/
+		padding-left: 6rem;
+		/*justify-content: center;*/
+	}
+
+	form {
+		width: 100%;
+	}
+
+	.up {
+		right: 2rem;
+	}
+
+}
+
+
+
+
 /*End Media Query's*/
 
 
 /* RULE: Borders are common design elements, but they’re also invaluable for debugging. When you’re not sure how 
 a box is being rendered, add a, border: 1px solid red; declaration to it. This will clearly show the box’s padding, 
 margin, and overall dimensions with just a single line of CSS. After you figured out why your stuff is broken, 
-simply delete the rule. */
+simply delete the rule. 
